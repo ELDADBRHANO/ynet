@@ -1,0 +1,139 @@
+#ynet {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-position: center;
+    height: 20vh;
+}
+
+ul {
+    background-color: #de1a1a;
+    color: white;
+    position: absolute;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 3vh;
+
+}
+
+.th {
+    background-color: #F0F0F0;
+    border-radius: 2px;
+    height: 10vh;
+    border-style: solid;
+    width: 100vw;
+}
+section {
+    display: inline-block;
+    direction: rtl;
+
+}
+.second {
+    display: inline-block;
+    width: 100vw;
+  
+}
+h4 {
+    width: 50vw;
+    margin-left: 100vh;
+    display: inline-block;
+}
+#num {
+    width: 511px;
+    height: 343px;
+    display: inline-block;
+}
+#img {
+    display: inline-block;
+    width: 40vw;
+    height: 50vh;
+    position: absolute;
+    left: 2vh;
+    top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+   padding-right: 10px;
+}
+.first {
+    display: inline-block;
+    
+}
+hr {
+    border-width: 0;
+}
+h4 {
+    display: inline-block;
+}
+.container{
+        background-color: #F0F0F0;
+        width: 45vw;
+        height: 90vh;
+        margin-right: 5%;
+        margin-top: 10vh;
+        padding-right: 50vh;
+        
+    }
+ .box1{
+   width: 40vw;
+   height: 20vh;
+   background-color: #ff3333;
+   font-size: x-large;
+   margin-left: auto;
+   direction: rtl;
+   border-radius: 2vh;
+    }
+.box2{
+ width: 40vw;
+ height: 20vh;
+ background-color: #1a1aff;
+ font-size: large;
+ margin-left: auto;
+ direction: rtl;
+ border-radius: 2vh;
+}
+.box3{
+    width: 40vw;
+    height: 20vh;
+    background-color: #ff3333;
+    font-size: large;
+    margin-left: auto;
+    direction: rtl;
+    border-radius: 2vh;
+}
+.box4{
+    width: 40vw;
+    height: 20vh;
+    background-color: #1a1aff;
+    font-size: large;
+    margin-left: auto;
+    direction: rtl;
+    border-radius: 2vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+    color: white;
+}
+.top{
+    color:black
+}
+body{
+    display: inline-block;
+}
+#alm{
+    width: 25vw;
+    height: 70vh;
+    position: absolute;
+    margin-left: 155vh;
+    top: 80vh;
+}
+#ker{
+    width: 25vw;
+    height: 62vh;
+    position: absolute;
+    margin-left: 100vh;
+    top: 80vh;
+}
